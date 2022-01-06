@@ -16,7 +16,7 @@ public class TestCaseExample {
 	
 	@Test
 	public void testCase2() {
-		assertEquals(ut.calculate(10),10);
+		assertEquals(ut.calculate(10),20);
 	}
 
 }
